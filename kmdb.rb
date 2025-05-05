@@ -101,6 +101,9 @@
 
 #STARTING HOMEWORK 2 FROM HERE :)
 
+#Reminder for myself to run the db:migrate command before running the rails runner kmdb.rb command
+
+
 Role.destroy_all
 Movie.destroy_all
 Actor.destroy_all
